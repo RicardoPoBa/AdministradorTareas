@@ -32,9 +32,9 @@ npm run dev
 
   
   
-<h2>💻 Built with</h2>
+<h2>💻 Construido con</h2>
 
-Technologies used in the project:
+Tecnologías usadas en el proyecto:
 
 *   SQL
 *   SQL Server
@@ -43,5 +43,7 @@ Technologies used in the project:
 *   React
 *   .NET
 *   C#
+
+
 
 
