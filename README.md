@@ -2,7 +2,7 @@
 
 <p id="description">Este proyecto es una prueba tecnica de un desarrollo completo con base de datos backend y frontend.</p>
 
-<h2>🛠️ Installation Steps:</h2>
+<h2>🛠️ Pasos de instalación:</h2>
 
 <p>1. Clonar el repositorio en una carpeta de tu pc</p>
 
@@ -43,6 +43,16 @@ Tecnologías usadas en el proyecto:
 *   React
 *   .NET
 *   C#
+
+<h2>Correciones pendientes</h2>
+
+* Notas: Hice la tabla prevista para agregar notas por cada una de las tareas, sin embargo la idea que tenía en mente, me llevaría más tiempo.
+* Las validaciones las decidí realizar en el Front y estas podrían mejorarse
+* Algunos de los componentes repiten código, por lo que podrían refactorizarse
+* El filtro tiene un pequeño detalle que cuando ninguno de los filtros coincide muestra todo, además tuve un detalle con los formatos de las fechas en donde una está como yyyy-MM-dd y la otra como dd-MM-yyyy
+  por lo que eso no me dio tiempo de resolverlo.
+
+
 
 
 
